@@ -114,10 +114,8 @@ Aspiring Data Analyst
 
 ## 🔗 Links
 
-**GitHub:** 
+**GitHub:** https://github.com/gauravbodhane/Data-Professional-Survey-Breakdown.git
 
-**Power BI Service:** Add your published dashboard link here, if available
+**Power BI Service:**  
+https://app.fabric.microsoft.com/groups/6ba844c2-6232-4817-bc4c-8c994ea107a4/reports/744826a0-c21f-413d-a1a3-aeb3a448be04/4042b9ccd2e04fb45b41?experience=fabric-developer
 
-## ⚠️ Note
-
-Please verify that any dataset included in this repository is permitted to be redistributed and does not contain private or sensitive information.
