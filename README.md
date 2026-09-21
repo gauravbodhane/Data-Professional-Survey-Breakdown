@@ -114,7 +114,7 @@ Aspiring Data Analyst
 
 ## 🔗 Links
 
-**GitHub:** Add your repository link here
+**GitHub:** 
 
 **Power BI Service:** Add your published dashboard link here, if available
 
